@@ -52,7 +52,7 @@ Clone this repository to your desired folder:
 
 ```
   cd my-folder
-  git clone git@github.com:myaccount/react-todo-list.git 
+  git clone git@github.com:myaccount/react-todo-app.git 
 ```
 
 ### Install
@@ -66,7 +66,7 @@ You don´t need to install this project
 To run the project, execute the following command:
 
 ```
-  code react-todo-list
+  code react-todo-app
 ```
 ### Run tests
 
